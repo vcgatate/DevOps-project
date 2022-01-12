@@ -1,0 +1,6 @@
+Hello WOrld
+<<<<<<< HEAD
+Adding to 1.txt
+=======
+inside feature1
+>>>>>>> feature1
